@@ -1,3 +1,9 @@
+/* 
+ * Tailwind CSS Configuration File
+ * This file uses Tailwind CSS directives like @apply, @layer, etc.
+ * VS Code: Install "Tailwind CSS IntelliSense" extension for proper syntax highlighting
+ */
+
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
