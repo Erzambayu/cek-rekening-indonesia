@@ -1,0 +1,3 @@
+Debug file created at: 2024-12-24
+This file helps check if GitHub Pages deployment is working.
+Website: https://erzambayu.github.io/cek-rekening-indonesia/ 
