@@ -6,7 +6,7 @@ export default function Header() {
       {/* Background with gradient */}
       <div className="absolute inset-0 bg-gradient-to-r from-blue-600 via-purple-600 to-indigo-600 dark:from-blue-800 dark:via-purple-800 dark:to-indigo-800 opacity-10 dark:opacity-20 animate-pulse-slow rounded-2xl"></div>
       
-      <div className="relative glass-effect dark:glass-effect-dark rounded-2xl p-6 sm:p-8 text-center animate-fade-in">
+      <div className="relative glass-effect rounded-2xl p-6 sm:p-8 text-center animate-fade-in">
         {/* Main Title */}
         <div className="mb-6">
           <div className="flex justify-center mb-4">

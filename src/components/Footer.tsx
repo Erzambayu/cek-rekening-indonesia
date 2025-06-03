@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <footer className="mt-16 space-y-8">
       {/* Enhanced Disclaimer */}
-      <div className="glass-effect dark:glass-effect-dark rounded-2xl p-6 border-l-4 border-red-500 dark:border-red-400">
+      <div className="glass-effect rounded-2xl p-6 border-l-4 border-red-500 dark:border-red-400">
         <div className="flex items-start space-x-3">
           <AlertTriangle className="w-6 h-6 text-red-500 dark:text-red-400 mt-0.5 flex-shrink-0" />
           <div>
@@ -54,7 +54,7 @@ export default function Footer() {
       </div>
 
       {/* Usage Guidelines */}
-      <div className="glass-effect dark:glass-effect-dark rounded-2xl p-6">
+      <div className="glass-effect rounded-2xl p-6">
         <div className="flex items-start space-x-3">
           <Shield className="w-5 h-5 text-blue-500 dark:text-blue-400 mt-0.5 flex-shrink-0" />
           <div>
@@ -82,7 +82,7 @@ export default function Footer() {
       </div>
 
       {/* Credits */}
-      <div className="glass-effect dark:glass-effect-dark rounded-2xl p-6">
+      <div className="glass-effect rounded-2xl p-6">
         <h3 className="font-bold text-gray-800 dark:text-gray-200 mb-4 text-center">Credits & Attribution</h3>
         
         <div className="space-y-4">
